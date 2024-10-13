@@ -1,0 +1,13 @@
+/* This is a multi-line
+   comment */
+123
+45678
+012
+Color = "Yellow";
+while
+do
+endwhile
+print
+newline
+read
+$invalid_identifier
